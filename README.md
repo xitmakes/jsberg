@@ -30,5 +30,3 @@ python3 berg.py hosts.txt
 ## License
 MIT License
 ```
-
-Let me know if you need any modifications! 🚀
